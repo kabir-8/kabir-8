@@ -29,6 +29,13 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
+[instagram]:https://www.instagram.com/kabir_8/
+[linkedin]: https://www.linkedin.com/in/
+[twitter]: https://twitter.com/
+[facebook]: https://www.facebook.com/
+[leetcode]: https://leetcode.com/
+
+
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Muskan's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
 ![](https://komarev.com/ghpvc/?username=MuskanKhosla&color=blueviolet)
