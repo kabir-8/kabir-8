@@ -17,9 +17,7 @@
 - 📫 How to reach me **https://github.com/kabir-8**
 
 - ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
--
 
-<src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=kabir-8&show_icons=true" alt="kabir-8" /> </p>
 
 
 ### Connect with me:
