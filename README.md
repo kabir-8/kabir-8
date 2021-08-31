@@ -53,10 +53,6 @@
 <br />
 <br />
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabir-8&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-8&theme=tokyonight" />
-</p>
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
@@ -66,6 +62,8 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
+<br/>
+<br/>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
