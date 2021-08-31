@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir-8" alt="kabir-8" /> </p>
  <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
 
-- 🔭 I’m currently working on **some of my side projects :P**
+- 🔭 I’m currently working on **Some of my side projects **
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 👯 I’m looking to collaborate on **Anything free and open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kabir-8](https://github.com/kabir-8)
 
-- 💬 Ask me about **React, NodeJs**
+- 💬 Ask me about **HTML,CSS,JavaScript,React, NodeJs**
 
 - 🧠 I am currently learning **C++**
 
