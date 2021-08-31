@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, NodeJs**
 
-- 🧠 I am currently learning **(LFE:Lisp Flavored Erlang)**
+- 🧠 I am currently learning **C++**
 
 - 📫 How to reach me **https://github.com/kabir-8**
 
