@@ -40,7 +40,7 @@
 
  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Muskan's DEV Profile" height="23" width="26"> </a>
 <br /><br/>
-![](https://komarev.com/ghpvc/?username=MuskanKhosla&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kabir-8&color=blueviolet)
 
 <p align="center">
 <a href="https://dev.to/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gargakshit" height="20" width="20" /></a>
