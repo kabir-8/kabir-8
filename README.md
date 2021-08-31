@@ -44,6 +44,8 @@
 
 <p align="center">
 <a href="https://dev.to/gargakshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gargakshit" height="20" width="20" /></a>
+ 
+ 
  ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -60,6 +62,6 @@
 <br />
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuskanKhosla&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanKhosla&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabir-8&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-8&theme=tokyonight" />
 </p>
