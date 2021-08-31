@@ -57,3 +57,28 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabir-8&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-8&theme=tokyonight" />
 </p>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 56 mins   █████████████▓░░░░░░░░░░░   55.01 % 
+JSX          2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   40.27 % 
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,936 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 663 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kabir-8&show_icons=true&theme=gotham" alt="kabir-8" />
