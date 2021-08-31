@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
 
-
+I am _Karanbir Singh_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _Chitkara University_. I am an learning  developer in C++, Java, Android Development, Full Stack Development,MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### Connect with me:
 
