@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Karanbir</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabir-8" alt="kabir-8" /> </p>
- <img align="right" alt="GIF" src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://wi.wallpapertip.com/wsimgs/160-1606283_web-developer-wallpaper.jpg" width="500" height="320" />
 
 - 🔭 I’m currently working on **Some of my side projects **
 
